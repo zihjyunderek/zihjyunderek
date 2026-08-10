@@ -1,0 +1,21 @@
+# Local agent context
+.claude/
+CLAUDE.local.md
+
+# Link-check output
+lychee/
+lychee-out.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
